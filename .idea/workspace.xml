@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d36adb27-bcd3-49ac-bbc3-62d51075c2f4" name="Changes" comment="laptop class">
+      <change afterPath="$PROJECT_DIR$/Spring JDBC/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring JDBC/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring JDBC/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring JDBC/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring JDBC/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring JDBC/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring JDBC/src/main/java/com/springJDBC/springJDBC_demo/SpringJdbcDemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring JDBC/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring JDBC/src/test/java/com/springJDBC/springJDBC_demo/SpringJdbcDemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Spring Core/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring Core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/Device.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring Core/src/main/java/com/spring/Device.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring Core/src/main/java/com/spring/Laptop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring Core/src/main/java/com/spring/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring Core/src/main/java/com/spring/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring Core/src/main/java/com/spring/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/beans_context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring Core/src/main/resources/beans_context.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "myselfShafi"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/myselfShafi/Spring-Demo.git",
+    "accountId": "d8da9ce8-79dc-4e52-ba71-3e127d314439"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="34kKcfg9ETiYRFnq32ay2dsnt9B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "S:/PROJECTS/Spring/Spring JDBC",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="S:\PROJECTS\Spring\Spring JDBC" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="S:\PROJECTS\Spring\Spring Core" />
+      <recent name="S:\PROJECTS\Spring" />
+      <recent name="S:\PROJECTS\Spring\.idea" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d36adb27-bcd3-49ac-bbc3-62d51075c2f4" name="Changes" comment="" />
+      <created>1761752220382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761752220382</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial codebase">
+      <option name="closed" value="true" />
+      <created>1761994359642</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761994359642</updated>
+    </task>
+    <task id="LOCAL-00002" summary="laptop class">
+      <option name="closed" value="true" />
+      <created>1761997096510</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761997096510</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial codebase" />
+    <MESSAGE value="laptop class" />
+    <option name="LAST_COMMIT_MESSAGE" value="laptop class" />
+  </component>
+</project>
