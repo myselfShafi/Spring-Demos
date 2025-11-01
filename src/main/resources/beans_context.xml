@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="user" class="com.spring.User" scope="prototype">
+<!--        setter injection-->
+        <property name="domain" value="Google" />
+<!--        constructor injection-->
+        <constructor-arg index="0" value="Fullstack Dev" />
+    </bean>
+
+    <bean id="device" class="com.spring.Device">
+<!--        inject user bean into device using setter with ref-attribute-->
+        <property name="user" ref="user" />
+    </bean>
+
+</beans>
