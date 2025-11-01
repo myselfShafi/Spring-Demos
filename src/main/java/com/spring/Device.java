@@ -1,5 +1,9 @@
 package com.spring;
 
+import org.springframework.context.annotation.Scope;
+import org.springframework.stereotype.Component;
+
+@Component
 public class Device {
     private User user;
 

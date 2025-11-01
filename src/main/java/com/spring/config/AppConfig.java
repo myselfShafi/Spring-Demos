@@ -11,17 +11,17 @@ import org.springframework.context.annotation.Scope;
 @ComponentScan("com.spring")
 public class AppConfig {
 
-// //    JAVA based config start -----
+//    JAVA based config start -----
 //    @Bean(name = {"device1", "dev1", "dvc1"})
-    @Bean
-    @Scope("prototype")
-    public Device dvc1() {
-        return new Device();
-    }
-
-    @Bean
-    public User u1() {
-        return new User();
-    }
-// //    JAVA based config end -----
+//    @Bean
+//    @Scope("prototype")
+//    public Device dvc1() {
+//        return new Device();
+//    }
+//
+//    @Bean(name = {"user1", "usr1", "u1"})
+//    public User u1() {
+//        return new User();
+//    }
+//    JAVA based config end -----
 }
